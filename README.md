@@ -13,7 +13,6 @@ Scaricare il file `.jar` della versione scelta da uno dei seguenti siti:
 | Tipo di Server   | Sito ufficiale                                                                                  | Plugin/Mod supportati |
 |------------------|------------------------------------------------------------------------------------------------|----------------------|
 | Vanilla          | [minecraft.net](https://www.minecraft.net/it-it/download/server) *(mostra solo l'ultima versione)*<br>[mcversions.net](https://mcversions.net/) *(per scaricare versioni specifiche)* | ❌ No plugin         |
-| Spigot/Bukkit    | [getbukkit.org](https://getbukkit.org)                                                        | ✅ Plugin            |
 | PaperMC          | [papermc.io/downloads](https://papermc.io/downloads)                                          | ✅ Plugin            |
 | Forge (Modding)  | [files.minecraftforge.net](https://files.minecraftforge.net)                                    | ✅ Mod               |
 
