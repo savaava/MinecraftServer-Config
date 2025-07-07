@@ -68,7 +68,7 @@ Significato delle opzioni principali:
 
 ## 6. Port Forwarding
 Per far in modo che anche gli amici che non si trovano nella stessa rete locale possano connettersi al server, è necessario configurare il port forwarding sul router sulla porta specifica del server (nel nostro esempio usiamo quella di default: `25565`). <br>
-Quindi dovranno connettersi usando l'indirizzo IP pubblico del server, ossia l'indirizzo IP del router. <br> 
+Quindi dovranno connettersi usando l'indirizzo IP pubblico del server, ossia l'indirizzo IP dell'interfaccia WAN del router. <br> 
 La porta naturalmente deve essere aperta nel firewall (del router e del PC stesso) e può essere `25565`, oppure qualsiasi altra perchè si effettua in ogni caso il port forwarding sulla porta `25565`.
 
 ### 6.1 Aprire la porta 25565 sul router (port forwarding)
